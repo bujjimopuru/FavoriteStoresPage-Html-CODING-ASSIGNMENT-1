@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.fav-stores-bg-container {
+    background-color: #894bca;
+    height: 40vh;
+}
+
+.fav-top-heading {
+    color: white;
+    font-size: 25px;
+    font-family: "Bree Serif";
+    padding: 40px;
+}
+
+.fav-store-img {
+    height: 150px;
+    width: 150px;
+}
+
+.fav-stores-card-container {
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.select-fav-top-heading {
+    color: #f780c3;
+    font-family: "Roboto";
+    font-size: 22px;
+    text-align: center;
+    padding: 10px;
+}
+
+.amazon-img {
+    height: 80px;
+    width: 70px;
+}
+
+.select-fav-shop-heading {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.select-fav-shop-text {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 15px;
+
+}
+
+.amazon-card {
+    margin: 10px;
+    padding-left: 15px;
+}
+
+.amazon-text-pd {
+    padding: 10px;
+}
